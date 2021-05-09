@@ -12,3 +12,6 @@
     https://cdn.jsdelivr.net/gh/herokillerJ/starcitizen-data@latest/Data/Libs/Foundry/Records/Entities/SCItem/Ships/Weapons/Missiles/MISL_S01_IR_VNCL_Arrow.json
     //解析内容
   ```
+## 注意事项
+1. cdn的刷新时间请参考jsdelivr官方文档，当推送新release后应该是一天时间，用@latest应该足够满足绝大部分场景
+2. index.json中包含游戏版本号，通过json内的version字段判断是否应该更新你的本地缓存索引，当然也可以选择每隔一段时间就重建索引，毕竟一共也就几千条数据
