@@ -1,5 +1,5 @@
 # starcitizen-data
-# 星际公民商品数据库
+# <方舟知识协会>星际公民商品数据库
 ## 使用方式
 1. 通过github原地址或cdn获取本库的索引及内容文件 cdn前缀:https://cdn.jsdelivr.net/gh/herokillerJ/starcitizen-data@latest/
   例: https://cdn.jsdelivr.net/gh/herokillerJ/starcitizen-data@latest/index.json
